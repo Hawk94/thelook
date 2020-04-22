@@ -1,6 +1,6 @@
 connection: "snowlooker"
 
-# include all the views
+# include all the views Some change
 include: "/views/**/*.view"
 
 datagroup: thelook_default_datagroup {
