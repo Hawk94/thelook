@@ -1,6 +1,7 @@
 connection: "snowlooker"
 
 # include all the views brand new message
+# with another commit...?
 include: "/views/**/*.view"
 
 datagroup: thelook_default_datagroup {
