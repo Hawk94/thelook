@@ -1,6 +1,6 @@
 connection: "snowlooker"
 
-# include all the views
+# include all the views Something new
 # SOme more stuff
 include: "/views/**/*.view"
 
